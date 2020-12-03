@@ -1,0 +1,3 @@
+﻿  ModelATM.cpp
+c:\users\37529\source\repos\modelatm\modelatm\modelatm.cpp(19): warning C4101: Switch: неиспользованная локальная переменная
+  ModelATM.vcxproj -> C:\Users\37529\source\repos\ModelATM\Debug\ModelATM.exe
